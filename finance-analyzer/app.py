@@ -20,7 +20,9 @@ st.set_page_config(
 )
 
 # Load custom CSS
-with open("assets/style.css") as f:
+import os
+css_path = os.path.join(os.path.dirname(__file__), "assets", "style.css")
+with open(css_path) as f:
     st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
 st.title("💰 ML-Powered Personal Finance Analyzer")
