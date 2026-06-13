@@ -1,0 +1,31 @@
+
+/* Clean dark-accent styling for the finance app */
+
+.metric-card {
+    background: #f8f9fa;
+    border-radius: 12px;
+    padding: 1rem;
+    border-left: 4px solid #FF6600;
+}
+
+.anomaly-badge {
+    background: #fff3cd;
+    color: #856404;
+    padding: 2px 8px;
+    border-radius: 20px;
+    font-size: 0.8rem;
+}
+
+.tip-box {
+    background: #f0f7ff;
+    border-radius: 10px;
+    padding: 1rem 1.5rem;
+    border-left: 4px solid #0066cc;
+    margin-top: 0.5rem;
+}
+.saving-tips {
+    color: #000000 !important;
+    background-color: #f9f9f9 !important;
+    padding: 20px;
+    border-radius: 8px;
+}
