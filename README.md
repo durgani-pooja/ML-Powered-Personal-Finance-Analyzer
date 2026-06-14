@@ -18,6 +18,8 @@ Upload your bank statement CSV and instantly get:
 | LLM Advice | LLaMA-3 8B via Groq API |
 | UI | Streamlit + Plotly |
 
+🔗 **Live Demo:** [Click here](https://ml-powered-personal-finance-analyzer-fxelyxvbvfi4fxjczy5bqy.streamlit.app/)
+
 ## 📦 Setup
 
 ```bash
